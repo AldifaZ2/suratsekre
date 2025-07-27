@@ -1,5 +1,6 @@
 {
     "require": {
+        "php": "^8.2",
         "google/apiclient": "2.14",
         "guzzlehttp/guzzle": "7.4"
     }
